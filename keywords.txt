@@ -1,0 +1,10 @@
+# Syntax Coloring Map For ExampleLibrary
+# Istruzioni operative: https://arduino.github.io/arduino-cli/0.19/library-specification/#keywords
+
+# Datatypes (KEYWORD1)
+
+# Methods and Functions (KEYWORD2)
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
